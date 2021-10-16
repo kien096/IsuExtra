@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6wGJ3REbaSPEA+ohSYRDWxPPS2txGOs0BG2R+ppJI1YmSkUyxIcxx9sNQIHuPbNRAVqRGHIIl9EKtp8licgxJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elimi\\source\\repos\\is-oop-y24\\kien096\\IsuExtra\\IsuExtra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elimi\\.nuget\\packages\\stylecop.analyzers\\1.1.118\\stylecop.analyzers.1.1.118.nupkg.sha512"
+  ],
+  "logs": []
+}
